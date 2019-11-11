@@ -1,3 +1,11 @@
+# Backstory: Usain Bolt, you, and Aybek
+# had a race. Surprisingly, Usain bolt won.
+# You came in 2nd and Aybek came in 3rd :(.
+# Can you think of a way to write a function
+# that given a person's name, returns his/her place?
+# ALSO
+# Can you think of a way to write a function
+# that given a place, returns his/her name?
 a=input("Enter the name or place of the marathon participant:")
 if a==1:
 	print("Usain Bolt")
